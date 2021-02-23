@@ -14,13 +14,13 @@ e mais para frente decidir para onde me especializar.
 
 <hr>
 
-Minhas Stacks
-HTML5 CSS3 Javascript TypeScript React Next.js
+<h3>Minhas Stacks</h3>
+<strong>HTML5 CSS3 Javascript TypeScript React Next.js<strong>
 
 <hr>
 
-Contatos
-linkedIn email 
+<h3>Contatos</h3>
+<a href="https://www.linkedin.com/in/mateuscveloso/">LinkedIn</a>
 
 <!--
 **mateusvzo/mateusvzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
