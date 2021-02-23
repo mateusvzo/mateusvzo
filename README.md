@@ -1,9 +1,4 @@
-<styles>
-  img {
-    border-radius: 5px;
-</styles>
-
-<img width="auto" src="https://avatars.githubusercontent.com/u/56977047?s=400&u=cdb11ffbb55486395de884e4244850ef1891dabc&v=4">
+<img width="auto" style="border-radius:5px" src="https://avatars.githubusercontent.com/u/56977047?s=400&u=cdb11ffbb55486395de884e4244850ef1891dabc&v=4">
 
 <h1>Oi, sou Mateus Veloso 😊</h1>
 
