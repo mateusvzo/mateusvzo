@@ -6,7 +6,7 @@
 
 Estou cursando Sistemas de Informação na UniFOA e estou me descobrindo a cada dia mais na area da programação.
 Ainda não tenho uma área preferida dentro da programação como por exemplo front ou back, somente estou disposto a aprender as duas
-e mais para frente decidir para onde me especializar.
+e mais para frente decidir onde vou me especializar.
 
 <hr>
 
