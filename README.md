@@ -1,14 +1,23 @@
-<img width="auto" border-radius="5px" src="https://avatars.githubusercontent.com/u/56977047?s=400&u=cdb11ffbb55486395de884e4244850ef1891dabc&v=4">
+<img width="auto" src="https://avatars.githubusercontent.com/u/56977047?s=400&u=cdb11ffbb55486395de884e4244850ef1891dabc&v=4">
 
-Oi, sou Mateus Veloso 👋
+<h1>Oi, sou Mateus Veloso 😊</h1>
+
+<hr>
+
 Estou cursando Sistemas de Informação na UniFOA e estou me descobrindo a cada dia mais na area da programação.
 Ainda não tenho uma área preferida dentro da programação como por exemplo front ou back, somente estou disposto a aprender as duas
 e mais para frente decidir para onde me especializar.
 
-Seja bem-vindo ao meu portfólio.
+<hr>
+
+<h3>Seja bem-vindo ao meu portfólio.</h3>
+
+<hr>
 
 Minhas Stacks
 HTML5 CSS3 Javascript TypeScript React Next.js
+
+<hr>
 
 Contatos
 linkedIn email 
