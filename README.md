@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/mateusvzo">
+<img width="auto" src="https://avatars.githubusercontent.com/u/56977047?s=400&u=cdb11ffbb55486395de884e4244850ef1891dabc&v=4">
 
 Oi, sou Mateus Veloso 👋
 Estou cursando Sistemas de Informação na UniFOA e estou me descobrindo a cada dia mais na area da programação.
