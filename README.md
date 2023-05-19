@@ -1,4 +1,4 @@
-<img width="auto" style="border-radius:5px" src="https://github.com/mateusvzo/mateusvzo/assets/56977047/84b5af97-db55-4002-b058-66d79f060cd7">)
+<img width="50px" style="border-radius:5px" src="https://github.com/mateusvzo/mateusvzo/assets/56977047/84b5af97-db55-4002-b058-66d79f060cd7">
 
 <h1>Oi, sou Mateus Veloso 😊</h1>
 
