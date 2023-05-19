@@ -15,7 +15,7 @@ e mais para frente decidir onde vou me especializar.
 <hr>
 
 <h3>Minhas Stacks</h3>
-<strong>HTML5 CSS3 Javascript TypeScript React Next.js<strong>
+<strong>HTML5 CSS3 Javascript TypeScript React Next.js Kotlin<strong>
 
 <hr>
 
