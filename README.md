@@ -6,7 +6,7 @@
 
 Sou bacharel em Sistemas de Informação formado pela UniFOA.
 Atualmente estou me especializando em desenvolvimento Android utilizando KOTLIN, arquitetura MVVM.
-Possuo um breve conhecimento em Javascript onde utilizei React Native para desenvolvimento.
+Possuo um breve conhecimento em Javascript onde utilizei React Native para o desenvolvimento das aplicações.
 
 <hr>
 
