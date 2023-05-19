@@ -4,9 +4,9 @@
 
 <hr>
 
-Estou cursando Sistemas de Informação na UniFOA e estou me descobrindo a cada dia mais na area da programação.
-Ainda não tenho uma área preferida dentro da programação como por exemplo front ou back, somente estou disposto a aprender as duas
-e mais para frente decidir onde vou me especializar.
+Sou bacharel em Sistemas de Informação formado pela UniFOA.
+Atualmente estou me especializando em desenvolvimento Android utilizando KOTLIN, arquitetura MVVM.
+Possuo um breve conhecimento em Javascript onde utilizei React Native para desenvolvimento.
 
 <hr>
 
