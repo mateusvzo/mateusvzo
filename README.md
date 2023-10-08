@@ -1,12 +1,11 @@
 <img width="350px" style="border-radius:5px" src="https://github.com/mateusvzo/mateusvzo/assets/56977047/84b5af97-db55-4002-b058-66d79f060cd7">
 
-<h1>Oi, sou Mateus Veloso 😊</h1>
+<h1>Mateus Veloso</h1>
 
 <hr>
 
 Sou bacharel em Sistemas de Informação formado pela UniFOA.
-Atualmente estou me especializando em desenvolvimento Android utilizando KOTLIN, arquitetura MVVM.
-Possuo um breve conhecimento em Javascript onde utilizei React Native para o desenvolvimento das aplicações.
+Atualmente estou me especializando em desenvolvimento MOBILE utilizando REACT-NAVITE.
 
 <hr>
 
@@ -15,7 +14,7 @@ Possuo um breve conhecimento em Javascript onde utilizei React Native para o des
 <hr>
 
 <h3>Minhas Stacks</h3>
-<strong>Atualmente estou me aprofundando em desenvolvimento android utilizando Kotlin<strong>
+<strong>Atualmente estou me aprofundando em desenvolvimento mobile utilizando React-Native<strong>
 
 <hr>
 
